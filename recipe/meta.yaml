@@ -2,7 +2,7 @@
 
 package:
   name: gnuradio
-  version: {{ version }}+boost170
+  version: {{ version }}
 
 source:
   url: https://github.com/gnuradio/gnuradio/releases/download/v{{ version }}/gnuradio-{{ version }}.tar.gz
